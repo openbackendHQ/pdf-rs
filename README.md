@@ -1,4 +1,4 @@
-# PDF Signing
+# PDF Rust
 [![Crates.io](https://img.shields.io/crates/v/pdf_signing)](https://crates.io/crates/pdf_signing/)
 [![API Docs](https://img.shields.io/badge/docs.rs-pdf_signing-blue)](https://docs.rs/pdf_signing/latest/)
 
